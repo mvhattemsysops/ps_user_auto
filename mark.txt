@@ -1,0 +1,9 @@
+
+    Directory: C:\Users\marhat\OneDrive\studie\Powershell\ps_user_auto
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+la---           4/28/2023 12:43 PM             47 #Powershell user automation.ps1
+-a---           4/28/2023 12:51 PM            271 mark.txt
+la---           4/28/2023 12:50 PM              0 outfile
+
